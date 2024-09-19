@@ -1,0 +1,13 @@
+site_name: Documentation_Sum
+
+theme: 
+  name: "material"
+
+nav:
+  - index.md
+  - reference.md
+  - explanation.md
+  - tutorials.md
+
+plugins:
+  - mkdocstrings
